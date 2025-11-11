@@ -1,0 +1,35 @@
+{
+    "nom": "Mugisha",
+    "prenom": "Claude",
+    "mail": "claude.mugisha@example.com",
+    "role": "Admin1",
+    "mot_de_passe": "Moscouw03"
+}
+{
+    "nom": "Bernard",
+    "prenom": "Lucas",
+    "email": "utilisateur@example.com",
+    "password": "password123",
+    "role": "Utilisateur"
+}
+{
+    "nom": "Lemaire",
+    "prenom": "Anna",
+    "email": "observateur@example.com",
+    "password": "password123",
+    "role": "Observateur"
+}
+{
+    "nom": "Petit",
+    "prenom": "Marc",
+    "email": "client@example.com",
+    "password": "password123",
+    "role": "Client"
+}
+{
+    "nom": "Durand",
+    "prenom": "Sophie",
+    "email": "technicien@example.com",
+    "password": "password123",
+    "role": "Technicien"
+}

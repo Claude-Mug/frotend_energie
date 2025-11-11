@@ -1,0 +1,14 @@
+/* src/styles/TableauStyles.css */
+
+/* Règles pour les en-têtes (th) et les cellules (td) de la DataTable PrimeReact avec gridlines */
+/* Ces règles ciblent spécifiquement les éléments internes de la table de PrimeReact */
+.p-datatable.p-datatable-gridlines .p-datatable-thead > tr > th,
+.p-datatable.p-datatable-gridlines .p-datatable-tbody > tr > td {
+    border: 1px solid #0f0f0f !important; /* Bordure solide d'1px, couleur gris clair de Bootstrap */
+    /* Vous pouvez ajuster la couleur (#dee2e6 est souvent le gris de bordure de Bootstrap) ou l'épaisseur */
+}
+
+/* Si vous voulez des bordures sur les rangées aussi, vous pourriez avoir besoin de cibler les tr */
+ .p-datatable.p-datatable-gridlines .p-datatable-tbody > tr {
+    border-bottom: 1px solid #273b50 !important;
+}
