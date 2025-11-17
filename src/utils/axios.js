@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-  baseURL: 'http://localhost:3000', // adapte selon ton backend
+  baseURL: 'https://gestion-energie.onrender.com', // adapte selon ton backend
   // ...autres options si besoin...
 });
 
