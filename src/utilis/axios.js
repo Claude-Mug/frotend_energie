@@ -4,7 +4,7 @@ import axios from 'axios';
 
 // Crée une instance Axios avec une URL de base
 const instance = axios.create({
-  baseURL: 'http://localhost:3000/api', // Adaptez à l'URL de base de votre API backend
+  baseURL: 'https://gestion-energie.onrender.com', // Adaptez à l'URL de base de votre API backend
   timeout: 5000, // Timeout de 5 secondes
   headers: {
     'Content-Type': 'application/json',
