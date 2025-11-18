@@ -8,6 +8,6 @@ export default defineConfig({
   },
   preview: {
     host: '0.0.0.0',
-    allowedHosts: ['frontend-energie.onrender.com']
+    allowedHosts: ['frotend-energie.onrender.com']
   }
 })
